@@ -4,4 +4,4 @@ Sudoku solver which highlights cases where possible solutions are eliminated via
 
 Code asks the user to enter the 9 rows of the sudoku. For blank spaces, you can type any character that is not a number e.g. '.' or 'b'.
 
-Final solution will be printed at the bottom of the output.
+Final solution will be printed at the bottom of the output. For the best readability, make sure to use monospaced font in the console output.
